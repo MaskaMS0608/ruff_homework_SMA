@@ -1,0 +1,1 @@
+# ruff_homework_SMA
